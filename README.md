@@ -37,7 +37,7 @@ Bibliotek
 Installation och körning
 1. Klona projektet  
    ```bash
-   git clone <din-repo-url>
+   git clone <https://github.com/evenhadeghe/evens_magig_trick.git>
    cd evens_magic_trick
 
 Skapa och aktivera virtuell miljö
