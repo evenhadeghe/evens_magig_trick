@@ -6,7 +6,7 @@ class Deck:
         # Här lägger du in namn från din klass (eller påhittade)
         self.names = [
             "Adam", "Vendela", "Viktor", "Mike", "Emma", "Emmy", "Bellika",
-            "Ali", "Gabriella", "Harris", "Mhetab", "Leonard", "Allan", "Constantine",
+            "Ali", "Gabriella", "Harris", "Elvira", "Leonard", "Allan", "Constantine",
             "Nicklas", "Patrik", "Nahuel", "Kevin", "Youssef", "Nick", "David"
         ]
         random.shuffle(self.names)  # Blanda listan
