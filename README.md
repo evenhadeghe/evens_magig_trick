@@ -4,14 +4,6 @@ Detta projekt är ett Python-program som utför det klassiska 21-korts-tricket, 
 Användaren tänker på ett namn från listan och anger tre gånger vilken kolumn namnet ligger i.  
 Programmet gissar sedan rätt namn.
 
-Syfte
-Projektet visar förståelse för:
-- Klasser och objektorienterad programmering (OOP)
-- Funktioner, loopar och villkor
-- Moduler och filstruktur
-- Standardbibliotek och externa bibliotek
-- Testning med PyTest
-- Versionshantering via GitHub
 
 Funktioner
 - Dela upp 21 namn i tre kolumner
